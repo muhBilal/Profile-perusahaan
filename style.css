@@ -1,0 +1,67 @@
+body {
+    overflow-x: hidden;
+}
+
+.jumbroton {
+    padding-bottom: 10%;
+}
+
+.jb-tr {
+    height: 400px;
+}
+
+.jb-td {
+    width: 50%;
+    padding: 100px;
+}
+
+.jb-td h1 {
+    font-size: 70px;
+}
+
+td img {
+    padding-top: 10%;
+    width: 70%;
+    height: 8%;
+
+}
+
+/* card */
+.row {
+    position: relative;
+    top: 60px;
+    right: 50%;
+    left: 185px;
+}
+
+/* content */
+.content-c {
+    width: 50%;
+    padding: 100px;
+}
+
+.content-c img {}
+
+.progress {
+    width: 650px;
+}
+
+.img-b {
+    position: relative;
+    top: -50px;
+    left: 130px;
+    /* bottom: 60px; */
+    width: 60%;
+    height: 90%;
+    clear: both;
+}
+
+/* footer */
+.footer {
+    width: 100%;
+    height: 57px;
+    background-color: darkslategray;
+    color: white;
+    text-align: center;
+    padding: px;
+}
